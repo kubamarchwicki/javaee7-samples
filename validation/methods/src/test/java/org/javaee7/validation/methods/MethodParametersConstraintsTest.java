@@ -21,7 +21,8 @@ import org.junit.rules.ExpectedException;
 import org.junit.runner.RunWith;
 
 /**
- * @author Jakub Marchwicki
+ * In this sample we're going to explore how to communicate
+ *
  */
 @RunWith(Arquillian.class)
 public class MethodParametersConstraintsTest {
