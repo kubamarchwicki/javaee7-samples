@@ -8,6 +8,8 @@
     </parent>    
     <modelVersion>4.0.0</modelVersion>
 
+    <name>Method parameters validation</name>
+    <description>Validate method parameters with standard bean-validation annotations</description>
     <groupId>org.javaee7.validation</groupId>
     <artifactId>methods</artifactId>
     <version>1.0-SNAPSHOT</version>
