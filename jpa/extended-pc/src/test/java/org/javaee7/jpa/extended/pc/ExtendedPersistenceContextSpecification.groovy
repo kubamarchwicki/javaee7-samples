@@ -12,7 +12,8 @@ import javax.persistence.EntityManager
 import javax.persistence.PersistenceContext
 
 /**
- * @author Kuba Marchwicki
+ * In this sample we're going to explore how to communicate
+ *
  */
 @RunWith(ArquillianSputnik)
 class ExtendedPersistenceContextSpecification extends Specification {
