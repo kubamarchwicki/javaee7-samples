@@ -8,6 +8,8 @@
 	<relativePath>../pom.xml</relativePath>
     </parent>
 
+    <name>Extended persistence context</name>
+    <description>Using extended pesistence context in @Stateful session beans</description>
     <artifactId>extended-pc</artifactId>
     <packaging>war</packaging>
 </project>
